@@ -1,5 +1,5 @@
-![MasterHead](https://th.bing.com/th/id/R.d634b74068bca1b5a2155a0d26dd8f25?rik=JaKyEqVfKVug8w&pid=ImgRaw&r=0)
-![MasterHead](https://th.bing.com/th/id/R.d634b74068bca1b5a2155a0d26dd8f25?rik=JaKyEqVfKVug8w&pid=ImgRaw&r=0)
+![MasterHead](https://routerjockey.com/wp-content/uploads/2017/02/Matrix-code-gif.gif)
+
 <h1 align="center">Hi 👋, I'm Lahiru Darshana</h1>
 <h3 align="center">A passionate Game developer & Full-Stack from Sri Lanka</h3>
 <img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/R.8b35fef55fba1a201c9c7a11d3ec3d64?rik=yzc%2fGil95nArtA&pid=ImgRaw&r=0">
