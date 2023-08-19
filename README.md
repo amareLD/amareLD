@@ -1,13 +1,13 @@
-[![MasterHead](https://cdn.wallpapersafari.com/42/88/9ynmFP.gif)]
+[![MasterHead]([https://cdn.wallpapersafari.com/42/88/9ynmFP.gif](https://th.bing.com/th/id/R.3dc98e10a8cef3affa7c30e4b79453bc?rik=10fXHqNSftFcTQ&pid=ImgRaw&r=0))]
 <h1 align="center">Hi 👋, I'm Lahiru Darshana</h1>
-<h3 align="center">A passionate Full-Stack & Game developer from Sri Lanka</h3>
+<h3 align="center">A passionate Game developer & Full-Stack from Sri Lanka</h3>
 <img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/R.8b35fef55fba1a201c9c7a11d3ec3d64?rik=yzc%2fGil95nArtA&pid=ImgRaw&r=0">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amareld&label=Profile%20views&color=0e75b6&style=flat" alt="amareld" /> </p>
 
 <p align="left"> <a href="https://twitter.com/lahirud77" target="blank"><img src="https://img.shields.io/twitter/follow/lahirud77?logo=twitter&style=for-the-badge" alt="lahirud77" /></a> </p>
 
-- 🌱 I’m currently learning **MERN Stack & Flutter**
+- 🌱 I’m currently learning **Unreal Engine | MERN Stack | Flutter**
 
 - 💬 Ask me about **Unreal Engine , MERN**
 
