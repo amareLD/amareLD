@@ -2,6 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Lahiru Darshana</h1>
+<a href="https://app.daily.dev/Lahiru_D"><img src="https://api.daily.dev/devcards/73b94d2709904ae5b0338db789d9cf62.png?r=0cl" width="400" alt="Lahiru Darshana's Dev Card"/></a>
 <h3 align="center">A passionate Game developer & Full-Stack from Sri Lanka</h3>
 <img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/R.8b35fef55fba1a201c9c7a11d3ec3d64?rik=yzc%2fGil95nArtA&pid=ImgRaw&r=0">
 
