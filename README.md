@@ -74,8 +74,8 @@ I enjoy solving complex engineering challenges, building reliable and maintainab
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amareld&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="amareld's GitHub stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amareld&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" width="48%"/>
+  <img src="https://github-readme-stats-ten-peach-53.vercel.app/api?username=amareld&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="amareld's GitHub stats" width="48%"/>
+  <img src="https://github-readme-stats-ten-peach-53.vercel.app/api/top-langs?username=amareld&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" width="48%"/>
 </p>
 
 <p align="center">
