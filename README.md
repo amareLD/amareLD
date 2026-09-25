@@ -1,7 +1,7 @@
 <div align="center">
 
 # Lahiru Darshana
-### Senior Software Engineer · Game Development & Full-Stack
+### Software Engineer · Full-Stack & Backend Systems
 
 </div>
 
@@ -12,11 +12,13 @@
 
 <br/>
 
-I build performant, production-grade software across game development and full-stack web — from gameplay systems in **Unreal Engine** to end-to-end applications on the **MERN stack** and **Flutter**. Senior-level focus on clean architecture, maintainability, and shipping work that lasts.
+I'm a Software Engineer focused on building scalable systems, backend services, and modern full-stack web applications. My experience spans system design, API development, cloud-native solutions, AI integrations, and automation — delivering end-to-end applications on the **MERN stack** and **Flutter**.
 
-- 🎮 Gameplay & tools engineering — Unreal Engine (C++, Blueprints)
-- 🌐 Full-stack web & mobile — MERN, Flutter
-- 🌱 Currently deepening expertise in Unreal Engine, MERN, and Flutter
+I enjoy solving complex engineering challenges, building reliable and maintainable software, and continuously learning new technologies.
+
+- 🌐 Full-stack web & backend systems — MERN, Flutter
+- ☁️ Cloud-native solutions, AI integrations, and automation
+- 🌱 Currently deepening expertise in cloud architecture and AI-powered systems
 - 📫 **lahirudarshana.007@gmail.com**
 
 <br/>
